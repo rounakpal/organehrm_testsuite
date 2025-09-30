@@ -1,0 +1,87 @@
+2025-09-28 19:23:28 [%] INFO  %{1} - config.properties file loaded
+2025-09-28 19:23:28 [%] TRACE %{1} - This is the trace message
+2025-09-28 19:23:28 [%] DEBUG %{1} - This is the debug message
+2025-09-28 19:23:28 [%] WARN  %{1} - This is the warn message
+2025-09-28 19:23:31 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-28 19:23:33 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-28 19:23:33 [%] INFO  %{1} - Webdriver instances is created
+2025-09-28 19:23:33 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-28 19:23:53 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-28 19:24:06 [%] INFO  %{1} - config.properties file loaded
+2025-09-28 19:24:06 [%] TRACE %{1} - This is the trace message
+2025-09-28 19:24:06 [%] DEBUG %{1} - This is the debug message
+2025-09-28 19:24:06 [%] WARN  %{1} - This is the warn message
+2025-09-28 19:24:28 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-28 19:24:33 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-28 19:24:33 [%] INFO  %{1} - Webdriver instances is created
+2025-09-28 19:24:33 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-28 19:24:34 [%] INFO  %{1} - Value entered:Admin
+2025-09-28 19:24:34 [%] INFO  %{1} - Value entered:admin
+2025-09-28 19:25:56 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-29 13:59:59 [%] INFO  %{1} - config.properties file loaded
+2025-09-29 13:59:59 [%] TRACE %{1} - This is the trace message
+2025-09-29 13:59:59 [%] DEBUG %{1} - This is the debug message
+2025-09-29 13:59:59 [%] WARN  %{1} - This is the warn message
+2025-09-29 14:00:01 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-29 14:00:04 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-29 14:00:04 [%] INFO  %{1} - Webdriver instances is created
+2025-09-29 14:00:04 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-29 14:00:07 [%] INFO  %{1} - Unable to describe the elementError communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5345c5b81d58c6c4b63c12da7396a3b0, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.128, chrome: {chromedriverVersion: 140.0.7339.82 (bc93617e21c3..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53626}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53626/devtoo..., se:cdpVersion: 140.0.7339.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5345c5b81d58c6c4b63c12da7396a3b0
+2025-09-29 14:00:07 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-29 14:00:48 [%] INFO  %{1} - config.properties file loaded
+2025-09-29 14:00:48 [%] TRACE %{1} - This is the trace message
+2025-09-29 14:00:48 [%] DEBUG %{1} - This is the debug message
+2025-09-29 14:00:48 [%] WARN  %{1} - This is the warn message
+2025-09-29 14:00:56 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-29 14:01:01 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-29 14:01:01 [%] INFO  %{1} - Webdriver instances is created
+2025-09-29 14:01:01 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-29 14:01:01 [%] INFO  %{1} - Enter Text on:Element with name:username Admin
+2025-09-29 14:01:01 [%] INFO  %{1} - Enter Text on:Element with name:password admin
+2025-09-29 14:01:02 [%] INFO  %{1} - clicked an element -->Element with text:Login
+2025-09-29 14:01:03 [%] INFO  %{1} - Text are not matching:Invalid credentialsequalsInvalid Credentials 1
+2025-09-29 14:01:03 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-29 14:03:28 [%] INFO  %{1} - config.properties file loaded
+2025-09-29 14:03:28 [%] TRACE %{1} - This is the trace message
+2025-09-29 14:03:28 [%] DEBUG %{1} - This is the debug message
+2025-09-29 14:03:28 [%] WARN  %{1} - This is the warn message
+2025-09-29 14:03:31 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-29 14:03:37 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-29 14:03:37 [%] INFO  %{1} - Webdriver instances is created
+2025-09-29 14:03:37 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-29 14:03:38 [%] INFO  %{1} - Enter Text on:Element with name:username Admin
+2025-09-29 14:03:39 [%] INFO  %{1} - Enter Text on:Element with name:password admin
+2025-09-29 14:03:39 [%] INFO  %{1} - clicked an element -->Element with text:Login
+2025-09-29 14:03:41 [%] INFO  %{1} - Text are not matching:Invalid credentialsequalsInvalid Credentials
+2025-09-29 14:03:42 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-29 14:05:39 [%] INFO  %{1} - config.properties file loaded
+2025-09-29 14:05:39 [%] TRACE %{1} - This is the trace message
+2025-09-29 14:05:39 [%] DEBUG %{1} - This is the debug message
+2025-09-29 14:05:39 [%] WARN  %{1} - This is the warn message
+2025-09-29 14:05:42 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-29 14:05:48 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-29 14:05:48 [%] INFO  %{1} - Webdriver instances is created
+2025-09-29 14:05:48 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-29 14:05:49 [%] INFO  %{1} - Enter Text on:Element with name:username Admin
+2025-09-29 14:05:49 [%] INFO  %{1} - Enter Text on:Element with name:password admin
+2025-09-29 14:05:50 [%] INFO  %{1} - clicked an element -->Element with text:Login
+2025-09-29 14:06:33 [%] INFO  %{1} - Webdriver instance closed successfully.
+2025-09-29 14:08:49 [%] INFO  %{1} - config.properties file loaded
+2025-09-29 14:08:49 [%] TRACE %{1} - This is the trace message
+2025-09-29 14:08:49 [%] DEBUG %{1} - This is the debug message
+2025-09-29 14:08:49 [%] WARN  %{1} - This is the warn message
+2025-09-29 14:08:51 [%] INFO  %{1} - Chrome browser instance is created
+2025-09-29 14:08:59 [%] INFO  %{1} - Webdriver Intialized amd browser maximized
+2025-09-29 14:08:59 [%] INFO  %{1} - Webdriver instances is created
+2025-09-29 14:08:59 [%] INFO  %{1} - Webdriver insatnce is created
+2025-09-29 14:08:59 [%] INFO  %{1} - Enter Text on:Element with name:username Admin
+2025-09-29 14:09:00 [%] INFO  %{1} - Enter Text on:Element with name:password admin
+2025-09-29 14:09:00 [%] INFO  %{1} - clicked an element -->Element with text:Login
+2025-09-29 14:09:04 [%] INFO  %{1} - Text are matching:Invalid credentialsequalsInvalid credentials
+2025-09-29 14:09:05 [%] INFO  %{1} - Webdriver instance closed successfully.
